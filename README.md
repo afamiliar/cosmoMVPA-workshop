@@ -1,7 +1,13 @@
-#  Demo code, source code, and data for cosmo mvpa workshop
+#  Demo code and slides for cosmo mvpa workshop
 #		Author: Ariana Familiar
 # 		Tuesday, May 21 2019
 # 		University of Pennsylvania
+
+** requires source code & data downloads to run **
+https://github.com/CoSMoMVPA/CoSMoMVPA.git
+https://github.com/zsaad/afni_matlab.git
+https://github.com/nno/surfing.git
+http://cosmomvpa.org/datadb-v0.3.zip
 
 "demo_*" m-files show implementation of different subject-level classification analyses of fMRI data
 	These call upon source code within source_code/ & data files within tutorial_data/
