@@ -1,7 +1,7 @@
 #  Demo code and slides for cosmo mvpa workshop
-#		Author: Ariana Familiar
-# 		Tuesday, May 21 2019
-# 		University of Pennsylvania
+		Author: Ariana Familiar
+ 		Tuesday, May 21 2019
+ 		University of Pennsylvania
 
 ** requires source code & data downloads to run **
 https://github.com/CoSMoMVPA/CoSMoMVPA.git
